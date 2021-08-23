@@ -1,0 +1,9 @@
+Partlist exported from E:/Work/OneDrive - Higher Education Commission/Projects/Jackganly/PCB2/TS4231.sch at 09/07/2021 1:46 AM
+
+Qty Value                 Device                Package        Parts Description                         
+1   0.1uF                 CAPACITORSC0603       C0603          C1                                        
+1   15k                   RESISTORSR0603        R0603          R1                                        
+1   1X4_2.54MM_HEADERMALE 1X4_2.54MM_HEADERMALE 1X04_MALE      U$1                                       
+1   1uF                   CAPACITORSC0603       C0603          C2                                        
+1   BPW34S                BPW_34_S-Z            DIO_BPW_34_S-Z D1    Silicon PIN Photodiode Check prices 
+1   TS4321                TS4321                TS4321         U1                                        
