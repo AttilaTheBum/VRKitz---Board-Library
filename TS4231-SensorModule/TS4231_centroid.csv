@@ -1,0 +1,13 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "TS4231.brd" as of: 09/07/2021 1:46 AM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,0.087,0.085,0
+C2,Top,-0.114,-0.071,90
+D1,Top,-0.315,0.055,0
+R1,Top,-0.114,-0.138,90
+U1,Top,0.000,0.000,90
